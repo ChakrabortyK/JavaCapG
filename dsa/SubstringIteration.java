@@ -1,3 +1,4 @@
+
 public class SubstringIteration {
 
     public static boolean isSubstring(String str, String pattern) {

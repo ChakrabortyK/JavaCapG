@@ -1,3 +1,4 @@
+
 public class StringProblems {
     public static int getLength(String str) {
         int count = 0;
